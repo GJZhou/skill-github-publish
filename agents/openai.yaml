@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill GitHub Publish"
+  short_description: "Publish a local Codex skill to GitHub"
+  default_prompt: "Publish the specified local skill to GitHub; create a private repository by default and confirm before overwriting an existing remote."
